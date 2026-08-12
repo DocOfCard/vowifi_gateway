@@ -1,0 +1,5 @@
+VoWiFi Gateway full integration build
+Integration date: 2026-08
+Target upstream reference: vhu231/vowifi_gateway 3df37944a8222aca2235bee87c47e6b10f776548
+Features: Web authentication retained; ModemManager AT+CSIM modem-SIM backend; three role-specific UICC logical channels; per-line SOCKS5 UDP ePDG proxy.
+See BASELINE_AND_SCOPE.md for provenance details and LOCAL_INTEGRATION.md for deployment instructions.
